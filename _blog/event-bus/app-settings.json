@@ -1,6 +1,0 @@
-{
-  "port": 4005,
-  "postsPort": 4000,
-  "commentsPort": 4001,
-  "queryPort": 4002
-}
