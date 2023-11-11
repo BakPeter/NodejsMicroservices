@@ -11,3 +11,4 @@ _blog/event-bus/node_modules/
 _blog/query/node_modules/
 _blog/moderation/node_modules/
 fetchjson/node_modules/
+ticketing/auth/node_modules/
